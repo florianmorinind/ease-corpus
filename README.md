@@ -109,7 +109,3 @@ This corpus is developed outside formal institutional affiliation.
 
 As a result, it may not follow standard publication pathways, despite aiming at theoretical and experimental rigor.
 
-Contact
-
-For discussion, collaboration, or experimental testing:
-[add your email or contact here]
