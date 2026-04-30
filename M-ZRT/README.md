@@ -1,2 +1,5 @@
-The Morin Z-Reduction Task (M-ZRT) v3 is a minimal monitoring-disruption protocol designed to probe a falsifiable prediction: access to a distinct high positive affect regime ("ease") occurs through a thresholded, discontinuous transition when evaluative monitoring and micro-optimization are sufficiently destabilized. The task is not a training method, but an entry probe.
+This folder contains the Morin Z-Reduction Task (M-ZRT), a minimal behavioral protocol designed to test whether a reduction in evaluative coupling can occur without goal-directed optimization.
 
+The task is not an induction method. It is a discriminative test for regime shift dynamics.
+
+Start with the minimal instructions, then see the extended notes if needed.
