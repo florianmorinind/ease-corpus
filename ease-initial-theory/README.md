@@ -14,4 +14,4 @@ This folder contains timestamped public versions of the manuscript.
 
 Specification of entry threshold conditions
 
-And Transient Suppression of ACC Monitoring Enables High-Salience Positive Affect, the very fist observation in december 2025.
+And Transient Suppression of ACC Monitoring Enables High-Salience Positive Affect, the very first observation in december 2025.
