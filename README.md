@@ -1,4 +1,4 @@
-A Regime Theory of Joy corpus.
+The ease-corpus/A Regime Theory of Joy
 
 A theoretical and experimental framework proposing that access to high-intensity positive affect does not depend on reward maximization, but on a reduction of evaluative control.
 
