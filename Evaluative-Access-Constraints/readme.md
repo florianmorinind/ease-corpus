@@ -43,24 +43,45 @@ Ease is defined as a regime characterized by: (i) permissive rather than evaluat
 
 Falsification criteria (F1-F5)
 F1 A direct, repeatable intervention produces durable ease-compatible access without increasing anticipatory evaluative coupling over time.
+
 F2 Ease-compatible episodes reliably co-occur with stable, sustained evaluative monitoring.
+
 F3 Repetition produces monotonic strengthening of access without methodification effects.
+
 F4 Entry is not preferentially sensitive to evaluative probes relative to matched non-evaluative interruptions.
+
 F5 Z proxies fail to predict access constraints while strongly predicting persistence once ease is established.
+
 Canonical prediction index (A1-D1)
+
 Entry barrier (A)
+
 A1 Metric removal increases entry probability.
+
 A2 Evaluative probes collapse entry more than matched non-evaluative interruptions.
+
 A3 Weak reward scaling under matched monitoring load.
+
 Threshold and lock-in (B)
+
 B1 Disruptive effect of evaluation declines with time since onset.
+
 B2 Prevention vs termination asymmetry, entry is easier to block than to terminate.
+
 B3 Persistence dissociation, fatigue dominates post-threshold.
+
 Methodification (C)
+
 C1 Non-monotonic repetition curve, rise then decline.
+
 C2 Attribution penalty, explanatory capture reduces future entry.
+
 C3 Structural variation restores access more than exact repetition.
+
 Z and developmental constraint (D)
+
 D1 Z predicts entry more than persistence.
+
 Key construct
-Z is decomposed into three components: Z_acc (accumulated evaluative load), Z_shift (discrete structural transition to anticipatory monitoring), and Z_ctx (contextual evaluative load). Regime collapse probability is modeled as f(Z_acc, Z_shift, Z_ctx).
+
+Z is decomposed into three components: Z_acc (accumulated evaluative load), Zshift (discrete structural transition to anticipatory monitoring), and Zctx (contextual evaluative load). Regime collapse probability is modeled as f(Zacc, Zshift, Zctx).
