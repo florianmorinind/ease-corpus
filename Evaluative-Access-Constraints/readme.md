@@ -2,24 +2,43 @@ Abstract
 This paper defines ease as a mechanistic regime characterized by permissive, non-evaluatively constrained coordination, where anticipatory evaluation fails to capture the system at entry and the episode does not accumulate into meaning, progress, or durable motivational value. The framework emphasizes access constraints (monitoring, evaluation, micro-optimization) and proposes threshold dynamics with fragile entry and comparatively stable post-threshold persistence.
 
 Contents
+
 Canonical definition, prediction index
+
 The regime distinction
+
 Two sources of evaluative collapse
+
 The Z architecture
+
 Threshold dynamics
+
 Monitoring, evaluation, optimization
+
 A mechanistic distinction between mindfulness and suspension
+
 Anti-instrumentality glossary
+
 Pharmacological constraint note on transient re-opening
+
 Non-monotonic repetition predictions
+
 Measurement paradox in affect research
+
 Sibling structure as a developmental moderator
+
 Spontaneous reporting in high-intensity regimes
+
 Developmental exposure variables
+
 Ease Open-State Questionnaire (EOSQ)
+
 Evaluation-Before-Pleasure (EBP)
+
 Structural summary, open empirical questions, boundaries
+
 Canonical definition (scope standard)
+
 Ease is defined as a regime characterized by: (i) permissive rather than evaluatively constrained coordination, (ii) failure of anticipatory evaluation to capture the system at the moment of entry, and (iii) non-accumulation of the episode into meaning, progress, or durable motivational value.
 
 Falsification criteria (F1-F5)
