@@ -1,5 +1,5 @@
 Abstract
-This paper defines Ease as a mechanistic regime characterized by permissive, non-evaluatively constrained coordination, where anticipatory evaluation fails to capture the system at entry and the episode does not accumulate into meaning, progress, or durable motivational value. The framework emphasizes access constraints (monitoring, evaluation, micro-optimization) and proposes threshold dynamics with fragile entry and comparatively stable post-threshold persistence.
+This paper defines ease as a mechanistic regime characterized by permissive, non-evaluatively constrained coordination, where anticipatory evaluation fails to capture the system at entry and the episode does not accumulate into meaning, progress, or durable motivational value. The framework emphasizes access constraints (monitoring, evaluation, micro-optimization) and proposes threshold dynamics with fragile entry and comparatively stable post-threshold persistence.
 
 Contents
 Canonical definition, prediction index
