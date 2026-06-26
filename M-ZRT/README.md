@@ -80,8 +80,11 @@ With experience, however, more advanced exercises that directly perturb object
 categorization often become easier.
 
 Ideal Requirements
+
 ● A third-person game
+
 ● An inventory with valuable items
+
 ● A peaceful town or safe area without combat or quests
 
 Most RPGs and action RPGs (Diablo-like games) therefore provide an excellent
