@@ -98,7 +98,8 @@ It is generally preferable to combine different kinds of exercises, such as susp
 openness, and salience, but there is no need to be systematic yet.
 At this stage, the goal is simply to understand how an exercise works and to avoid
 turning it into something to optimize or perform perfectly every time it occurs.
-The first beginner M-ZRT exercise is Alter Your Path.
+
+Alter Your Path.
 Alter Your Path is a classic ZRT exercise. Whenever a movement plan begins to feel
 established, alter your trajectory for a moment before resuming normal movement. The
 deviation should remain brief. To help your brain treat it as a perturbation, you may
@@ -109,7 +110,8 @@ because the player is repeatedly interrupting the ongoing action. As a result, t
 few steps, stop, turn slightly, continue, then interrupt the movement again a moment
 later.
 
-The second beginner M-ZRT exercise is One-Word Drift .
+One-Word Drift 
+
 Look at an object. Let one unrelated word pass through.
 Chair → moon
 Cursor → bird
@@ -123,14 +125,16 @@ For a moment, the object's usual meaning is no longer the only available possibi
 Perception opens slightly without settling anywhere else. Then normal perception
 resumes.
 
-The third beginner M-ZRT exercise is Another Possible Time
+Another Possible Time
+
 After seeing the current time, briefly imagine a different time appearing on the display
 instead
 11:24 → 7:13
 Only the displayed numbers change. One of the strengths of the exercise is that it
 introduces a small opening without requiring any narrative. The actual time remains
 fully available
-The last beginner M-ZRT exercise is Cursor Passing
+
+Cursor Passing
 Let the cursor pass over an object, NPC, skill, menu option, or button without selecting
 it.
 
