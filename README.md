@@ -1,6 +1,6 @@
 The Ease Corpus/A Regime Theory of Joy
 
-A theoretical and experimental framework proposing that access to high-intensity positive affect does not depend on reward maximization, but on a reduction of evaluative control.
+A theoretical and experimental framework proposing that access to high-intensity positive affect does not depend on reward maximization, but on a reduction of evaluative control. "Ease-A-Regime-Theory-of-Joy" is the main paper folder.
 
 The core claim is that many affective states, including what is commonly called “joy”, are not produced by better outcomes, but become accessible when the coupling between monitoring, evaluation, and correction is sufficiently reduced. 
 
