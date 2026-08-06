@@ -3,7 +3,9 @@ Ease Is Not Lost, It Is Blocked by Optimization
 The Conditions Under Which It Can Occur
 
 Book-length manuscript
-Florian Morin
+
+Florian Morin,
+
 Independent researcher
 
 Canonical website:
