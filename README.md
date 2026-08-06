@@ -11,6 +11,7 @@ This framework proposes that:
 Evaluative load (Z) determines how strongly discrepancies trigger correction
 When Z is high, behavior is dominated by evaluation and optimization
 When Z falls below a threshold, a different regime becomes accessible
+The more precisely the state is targeted, the less likely it is to occur.
 
 In this permissive regime:
 
@@ -18,8 +19,7 @@ discrepancies can persist without being corrected
 sensory input can gain intensity
 action unfolds with reduced internal comparison
 
-This shift is not gradual. It is expected to be discontinuous, with abrupt transitions following repeated failures to induce it directly.
+This shift is expected to be discontinuous, with abrupt transitions following repeated failures to induce it directly.
 
-The more precisely the state is targeted, the less likely it is to occur.
 
 
