@@ -1,3 +1,3 @@
 Ideas around development and ease.
 
-Potential links with childhood play, vivid mental imagery, nostalgia, and more.
+Potential links with childhood play and vivid mental imagery
